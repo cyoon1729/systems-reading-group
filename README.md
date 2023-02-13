@@ -52,6 +52,13 @@
 - Bun
     - https://github.com/oven-sh/bun#developing-bun
 
+
+## Nix: Reproducible Builds
+- Nix Whitepaper: https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf
+- Nix Pills: https://nixos.org/guides/nix-pills/
+- Nix Paper: https://edolstra.github.io/pubs/nixos-jfp-final.pdf
+
+
 ## Networks Speedrun (topics, in no specific order)
 - Ethernet, Switched Ethernet, Bluetooth, the Internet, BGP, IPv6
 - UDP, TCP, Congestion Control, TLS, HTTP, QUIC
