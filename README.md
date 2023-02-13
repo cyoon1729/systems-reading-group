@@ -14,7 +14,7 @@
 
 
 ## Virtualization, Containerization, and the Cloud
-- A brief history of virtualization and Containerization
+- A brief history of virtualization and containerization
 - Docker
 - Amazon FireCracker
 - Meta Owl
