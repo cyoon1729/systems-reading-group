@@ -4,20 +4,22 @@
 **Runtimes**
 - JVM
     - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
-    - [JVM architecture blog post from 2013](https://blog.jamesdbloom.com/JVMInternals.html)
+    - [JVM architecture blog posts from 2013](https://blog.jamesdbloom.com/JVMInternals.html)
+    - [OReilly Optimizing Java](https://www.oreilly.com/library/view/optimizing-java/9781492039259/)
 - Erlang/OTP Beam
     - [The Beam Book](https://blog.stenmans.org/theBeamBook/)
 
 **Some Cool Concurrency stuff**
+- [Coroutines](https://pl.cs.jhu.edu/fpse/lecture/coroutines.html), [a review? paper on coroutines](http://aleksandar-prokopec.com/resources/docs/coroutines-ecoop.pdf)
 - [Structured Concurrency: A Review](https://dl.acm.org/doi/pdf/10.1145/3547276.3548519)
 - [Rust](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html), [Swift](https://github.com/apple/swift-evolution/blob/main/proposals/0304-structured-concurrency.md), [Erlang](https://learnyousomeerlang.com/the-hitchhikers-guide-to-concurrency)
 - (Haskell) STM?
 
 
-
 ## Virtualization, Containerization, and the Cloud
 - A brief history of virtualization and containerization
 - [What even is a container](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
+- [Implementing a container runtime](https://iximiuz.com/en/posts/conman-the-container-manager-inception/)
 - [Docker](https://docs.docker.com/get-started/)
 - [Amazon FireCracker](https://www.usenix.org/conference/nsdi20/presentation/agache)
 - [Meta Owl](https://www.usenix.org/conference/osdi22/presentation/flinn)
@@ -29,6 +31,7 @@
 - [ToyDB architecture](https://github.com/erikgrinaker/toydb/blob/master/docs/architecture.md)
 - [TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html) 
 - [CockroachDB design](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
+- [Redis Architecture](https://architecturenotes.co/redis/)
 
 **Database Potpourri** 
 - Graph Databases ([GQL](https://arxiv.org/pdf/2112.06217.pdf), [ByteGraph](https://github.com/Aaronchangji/ByteGraph-Paper-Query-Set/blob/main/ByteGraph%20Paper.pdf), [Facebook Tao](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf))
@@ -49,7 +52,7 @@
 - [what even is wasm](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts), [wasmtime](https://github.com/bytecodealliance/wasmtime), [Build your own wasm compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 **Javascript Runtimes**
-- [Node.js](https://nodejs.org/en/docs/guides/), [a blog post about it](https://patrickpassarella.com/blog/finally-understanding-node-internals)
+- [Node.js](https://nodejs.org/en/docs/guides/), [a blog post about it](https://patrickpassarella.com/blog/finally-understanding-node-internals), [Node.js in action](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Deno](https://deno.land/)
     - [Architecture Docs](https://deno.land/manual@v1.30.3/references/contributing/architecture)
     - [Conference 1](https://www.youtube.com/watch?v=AOvg_GbnsbA&t=2113s)
