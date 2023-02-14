@@ -48,7 +48,7 @@
 **WebAssembly**
 - [what even is wasm](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts), [wasmtime](https://github.com/bytecodealliance/wasmtime), [Build your own wasm compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
-**Javascript Runtimes*
+**Javascript Runtimes**
 - [Node.js](https://nodejs.org/en/docs/guides/), [a blog post about it](https://patrickpassarella.com/blog/finally-understanding-node-internals)
 - [Deno](https://deno.land/)
     - [Architecture Docs](https://deno.land/manual@v1.30.3/references/contributing/architecture)
