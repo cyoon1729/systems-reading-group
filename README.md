@@ -13,6 +13,7 @@
 - [Coroutines](https://pl.cs.jhu.edu/fpse/lecture/coroutines.html), [a review? paper on coroutines](http://aleksandar-prokopec.com/resources/docs/coroutines-ecoop.pdf)
 - [Structured Concurrency: A Review](https://dl.acm.org/doi/pdf/10.1145/3547276.3548519)
 - [Rust](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html), [Swift](https://github.com/apple/swift-evolution/blob/main/proposals/0304-structured-concurrency.md), [Erlang](https://learnyousomeerlang.com/the-hitchhikers-guide-to-concurrency)
+- [Ractor: Erlang-style actor framework for Rust](https://github.com/slawlor/ractor)
 - (Haskell) STM?
 
 
