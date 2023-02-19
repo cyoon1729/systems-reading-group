@@ -30,9 +30,10 @@
 ## Databases and Storage Systems
 **Distributed OLTP SQL**
 - [ToyDB architecture](https://github.com/erikgrinaker/toydb/blob/master/docs/architecture.md)
-- [TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html) 
+- [RocksDB Architecture](https://github.com/facebook/rocksdb/wiki/RocksDB-Overview), [Paper](https://dl.acm.org/doi/pdf/10.1145/3483840) -> [TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html) 
 - [CockroachDB design](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
-- [Redis Architecture](https://architecturenotes.co/redis/)
+- Good to know: [{B, B+, Bw}-trees](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf)
+
 
 **Database Potpourri** 
 - Graph Databases ([GQL](https://arxiv.org/pdf/2112.06217.pdf), [ByteGraph](https://github.com/Aaronchangji/ByteGraph-Paper-Query-Set/blob/main/ByteGraph%20Paper.pdf), [Facebook Tao](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf))
