@@ -32,7 +32,7 @@
 - [ToyDB architecture](https://github.com/erikgrinaker/toydb/blob/master/docs/architecture.md)
 - [RocksDB Architecture](https://github.com/facebook/rocksdb/wiki/RocksDB-Overview), [Paper](https://dl.acm.org/doi/pdf/10.1145/3483840) -> [TiKV](https://tikv.github.io/deep-dive-tikv/overview/introduction.html) 
 - [CockroachDB design](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
-- Good to know: [{B, B+, Bw}-trees](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf)
+- Good to know: [{🅱️, 🅱️+, 🅱️w}-trees](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf)
 
 
 **Database Potpourri** 
